@@ -5,6 +5,6 @@
 		<title>WebTest</title>
 	</head>
 	<body>
-		<h2>Hello World!!</h2>
+		<h2>World에 Hello 하십시오.</h2>
 	</body>
 </html>
